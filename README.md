@@ -58,7 +58,7 @@ The user would like to.... :
 
 ## Technologies Used
 
-* python3.6
+* python3.8
 
 ## Known Bugs
 * There are no known bugs currently but pull requests are allowed incase you spot a bug
