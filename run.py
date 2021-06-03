@@ -1,10 +1,11 @@
-#!usr/bin/env python3.8
+#!/usr/bin/env python3.8
 
 
 from passlocker import User, Credentials
 
+
 def function():
-    print("               ____                         _____  _                               ")
+	print("               ____                         _____  _                               ")
 	print("              |  _ \                       / ____|| |                              ")
 	print("              | |_) )  ____  ___   ___    / ____  | |__    _____  _ _  ____        ")
 	print("              |  __/  / _  |/ __  / __    \___  \ |  __)  /  _  \| '_|/ __ \       ")
@@ -202,6 +203,7 @@ def passlocker():
             print("Wrong entry... Check your entry again and let it match those in the menu")
     else:
         print("Please enter a valid input to continue")
+
 
 if __name__ == '__main__':
     passlocker()
